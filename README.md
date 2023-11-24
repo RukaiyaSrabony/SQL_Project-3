@@ -1,1 +1,1 @@
-# SQL_Project-3
+# RFM SEGMENTATION
